@@ -5,6 +5,6 @@
 
 หน้าที่สามเป็นหน้ารออนุมัติข้อมูล
 
-หน้าที่สี่เป็นหน้าลายเซ็น
+หน้าที่สี่เป็นหน้าอนุมัติลายเซ็น
 
 https://www.figma.com/design/Ya8793vawgKw2IKo5Y9afS/pro?node-id=0-1&t=3yLu3DftKElCVsLV-1
